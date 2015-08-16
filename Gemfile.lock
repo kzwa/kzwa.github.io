@@ -130,7 +130,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages
+  github-pages (= 39)
+  json
+  kramdown
 
 BUNDLED WITH
    1.10.6
